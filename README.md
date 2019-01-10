@@ -9,7 +9,7 @@
 1  
 ![image](https://user-images.githubusercontent.com/16419246/50993929-73d3c900-14e0-11e9-9a20-baa62c393ea1.png)  
 
-J = (sum((theta * x) - y) .^2 ) / (2 * m)  
+J = sum(((X * theta) - y) .^2 ) / (2 * m)  
 
 
 2  
