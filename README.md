@@ -30,3 +30,10 @@ THEN =>   J_history(iter) = computeCost(X, y, theta)   % for iter = 1:num_iters
           disp(min(J_history))  
           
           
+
+
+Type of algorithm  
+1) Linear regression  
+2) Classification (Spam email, Tumor)  
+   - Logistic regression  (Not linear regression)  
+   
