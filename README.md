@@ -37,3 +37,12 @@ Type of algorithm
 2) Classification (Spam email, Tumor)  
    - Logistic regression  (Not linear regression)  
    
+   
+# Solve overfitting   (If too many features with less training data)  
+(housing prices - with bed room size, no. of room, location, floors, age, avg income in neighborhood...)  
+1) Reduce number of features but throw away data  => Manually select which features to keep   <or>  Model selection algorithm  
+2) Regularization   
+   => Reduce magniture/values of parameters Oj  
+   => Works well with a lot of features that contribute a bit to prediction  
+
+
