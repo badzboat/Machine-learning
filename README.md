@@ -47,4 +47,6 @@ Type of algorithm
 
 ==========================================================================  
  
+ 
+# if too much penalize then Theta1-Theta2 become 0  =>  cause underfiting (Fail to fit training data well)  
 
