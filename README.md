@@ -51,7 +51,6 @@ Type of algorithm
 Manually select which features to keep.  
 Use a model selection algorithm (studied later in the course).  
 2) Regularization  
-
 Keep all the features, but reduce the magnitude of parameters \theta_jθ    .
 Regularization works well when we have a lot of slightly useful features.   
-==========================================================================  
+
