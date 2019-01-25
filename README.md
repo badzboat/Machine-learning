@@ -45,4 +45,13 @@ Type of algorithm
    => Reduce magniture/values of parameters Oj  
    => Works well with a lot of features that contribute a bit to prediction  
 
+==========================================================================  
+1) Reduce the number of features:  
 
+Manually select which features to keep.  
+Use a model selection algorithm (studied later in the course).  
+2) Regularization  
+
+Keep all the features, but reduce the magnitude of parameters \theta_jθ    .
+Regularization works well when we have a lot of slightly useful features.   
+==========================================================================  
